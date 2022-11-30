@@ -1,1 +1,1 @@
-# Algorithm_Practice
+하루에 하나씩
